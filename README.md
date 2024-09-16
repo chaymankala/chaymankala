@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, Im Chaitanya Mankala 👋
 
 <!--
 **chaymankala/chaymankala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Chaitanya Mankala
-
 ## 🚀 VP Software Engineering @ KIOT Innovations | FullStack Engineer | IoT Enthusiast
 
 ### 💡 Crafting innovative solutions since 2017
@@ -68,5 +66,4 @@ I'm always excited to discuss innovative projects, emerging tech trends, and pot
 - 🐦 Twitter: [@chaymankala29](https://x.com/chaymankala29)
 - 🔗 LinkedIn: [Chaitanya Mankala](https://www.linkedin.com/in/chaitanya-mankala-782a37106/)
 
-> "Turning ideas into reality, one line of code at a time."
 
