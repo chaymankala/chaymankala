@@ -41,5 +41,6 @@ Here are some ideas to get you started:
 I'm always excited to discuss innovative projects, emerging tech trends, and potential collaborations. Whether you're a fellow developer, a startup founder, or just passionate about technology, I'd love to connect!
 
 🐦 Twitter: [@chaymankala29](https://x.com/chaymankala29)
+
 🔗 LinkedIn: [Chaitanya Mankala](https://www.linkedin.com/in/chaitanya-mankala-782a37106/)
 
