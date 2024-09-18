@@ -59,6 +59,10 @@ Here are some ideas to get you started:
 
 ---
 
+![chaymankala's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaymankala&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+---
+
 ## 🤝 Let's Connect!
 
 I'm always excited to discuss innovative projects, emerging tech trends, and potential collaborations. Whether you're a fellow developer, a startup founder, or just passionate about technology, I'd love to connect!
