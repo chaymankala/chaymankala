@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 ---
 
+[![Chaitanya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chaymankala)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## 🔧 Technical Expertise
 
 - Full Stack Development
