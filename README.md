@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 - Firmware Development
 
 ---
-
+![chaymankala's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaymankala&theme=vue-dark&hide_border=true)
 ![chaymankala's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaymankala&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
